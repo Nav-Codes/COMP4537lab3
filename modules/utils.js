@@ -1,3 +1,5 @@
+'use strict';
+
 const format = require('util');
 const fs = require('fs');
 const userMessages = require("../messages/lang/en/user")
